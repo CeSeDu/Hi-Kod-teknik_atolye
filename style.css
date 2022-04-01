@@ -8,13 +8,11 @@ header{
     height: auto;
     font-style: italic;
     margin-bottom: 20px;
-   
     padding: 5px;
     text-align: center;
-   box-shadow: 5px 5px 5px 5px  brown;
+    box-shadow: 5px 5px 5px 5px  brown;
 }
 #fazıl{
-
     margin: 5px;
     border: 1px brown solid;
     float: left;
@@ -35,22 +33,30 @@ header{
 #fazıltanim{
 padding: 5px;
 }
+
+footer{
+    margin: 5px;
+    border: 1px solid brown;
+    float: left;
+    box-shadow: 5px 5px 5px 5px  brown;
+
+
+}
+#footerimg{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-left: 110px;
+    margin-right: 50px;
+}
+
 aside{
-    color: brown;
-    position: fixed;
-    right: 10px;
-    border: 1px brown solid;
-    width: auto;
-    float: right;
-    padding: 20px;
+    border: 1px solid brown;
+    display: inline-block;
+    padding: 15px;
     margin: 5px;
 }
 #asidebaslik{
-    font:20px ;
-    font-style: italic;
-    
-}
-
-#link{
     color: brown;
+
 }
