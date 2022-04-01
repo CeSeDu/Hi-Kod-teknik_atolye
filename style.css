@@ -1,0 +1,56 @@
+body{
+    background-color:rgb(221, 213, 193);
+}
+header{
+    color: brown;
+    border: 1px solid  brown;
+    width: auto;
+    height: auto;
+    font-style: italic;
+    margin-bottom: 20px;
+   
+    padding: 5px;
+    text-align: center;
+   box-shadow: 5px 5px 5px 5px  brown;
+}
+#fazıl{
+
+    margin: 5px;
+    border: 1px brown solid;
+    float: left;
+   
+}
+#fazılfoto{
+    float: left;
+    margin: 1px;
+
+}
+#fazıltext{
+    font-style: italic;
+    padding-left: 20px;
+    text-align: left;
+    color: brown;
+  
+}
+#fazıltanim{
+padding: 5px;
+}
+aside{
+    color: brown;
+    position: fixed;
+    right: 10px;
+    border: 1px brown solid;
+    width: auto;
+    float: right;
+    padding: 20px;
+    margin: 5px;
+}
+#asidebaslik{
+    font:20px ;
+    font-style: italic;
+    
+}
+
+#link{
+    color: brown;
+}
